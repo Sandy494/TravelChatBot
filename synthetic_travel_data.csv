@@ -1,0 +1,1001 @@
+Travel_From,Travel_To,Travel_Mode,Class,Price
+Hyderabad,Mumbai,Bus,Sleeper,9598
+Bangalore,Ahmedabad,Flight,Economy,9333
+Ahmedabad,Bangalore,Train,First Class,7786
+Bangalore,Hyderabad,Flight,Business,6435
+Delhi,Chennai,Bus,Non AC,4005
+Kolkata,Jaipur,Train,First Class,3509
+Pune,Bangalore,Train,First Class,7190
+Mumbai,Bangalore,Bus,Non AC,6202
+Lucknow,Jaipur,Train,AC 3 Tier,7402
+Pune,Kolkata,Bus,AC,3917
+Hyderabad,Pune,Train,First Class,2049
+Kolkata,Mumbai,Train,Sleeper,2602
+Lucknow,Chennai,Train,First Class,4633
+Mumbai,Pune,Flight,Business,9739
+Mumbai,Lucknow,Flight,Business,4402
+Kolkata,Lucknow,Bus,Non AC,1058
+Ahmedabad,Pune,Bus,Sleeper,829
+Ahmedabad,Pune,Flight,Business,7228
+Ahmedabad,Pune,Train,AC 2 Tier,868
+Jaipur,Hyderabad,Train,AC 3 Tier,1407
+Pune,Lucknow,Train,Sleeper,940
+Lucknow,Chennai,Train,Sleeper,9505
+Kolkata,Pune,Bus,AC,722
+Lucknow,Ahmedabad,Train,AC 3 Tier,4536
+Lucknow,Mumbai,Flight,Economy,7917
+Jaipur,Pune,Bus,Non AC,7896
+Jaipur,Delhi,Flight,Economy,8679
+Pune,Mumbai,Bus,AC,8377
+Mumbai,Bangalore,Flight,Business,2272
+Bangalore,Mumbai,Train,AC 3 Tier,6669
+Chennai,Jaipur,Bus,Sleeper,8838
+Chennai,Hyderabad,Train,AC 2 Tier,3520
+Chennai,Pune,Train,First Class,1092
+Ahmedabad,Pune,Flight,Economy,1115
+Hyderabad,Chennai,Train,AC 3 Tier,1104
+Pune,Ahmedabad,Flight,Economy,4673
+Lucknow,Hyderabad,Bus,Non AC,7500
+Chennai,Bangalore,Flight,Business,2263
+Pune,Bangalore,Flight,Economy,8645
+Lucknow,Hyderabad,Train,Sleeper,782
+Jaipur,Chennai,Bus,AC,755
+Pune,Jaipur,Flight,Economy,6421
+Kolkata,Chennai,Bus,AC,934
+Lucknow,Hyderabad,Bus,Sleeper,6998
+Delhi,Chennai,Bus,AC,2506
+Pune,Hyderabad,Bus,Sleeper,8072
+Ahmedabad,Mumbai,Flight,Economy,2464
+Bangalore,Jaipur,Train,Sleeper,7366
+Hyderabad,Pune,Flight,Business,4680
+Jaipur,Mumbai,Bus,Non AC,5190
+Bangalore,Ahmedabad,Flight,Business,1978
+Bangalore,Ahmedabad,Flight,Economy,1423
+Mumbai,Chennai,Train,AC 3 Tier,7937
+Lucknow,Ahmedabad,Bus,Non AC,4185
+Lucknow,Bangalore,Bus,Sleeper,3906
+Ahmedabad,Delhi,Train,AC 2 Tier,7650
+Delhi,Lucknow,Train,First Class,4449
+Delhi,Chennai,Train,Sleeper,4897
+Mumbai,Hyderabad,Train,Sleeper,5689
+Mumbai,Bangalore,Train,First Class,3633
+Chennai,Hyderabad,Flight,Business,6881
+Hyderabad,Kolkata,Bus,Non AC,8474
+Chennai,Pune,Bus,Non AC,6341
+Delhi,Chennai,Train,Sleeper,3866
+Bangalore,Ahmedabad,Bus,Sleeper,2774
+Delhi,Hyderabad,Train,First Class,9354
+Chennai,Bangalore,Train,First Class,6270
+Bangalore,Hyderabad,Flight,Economy,7311
+Delhi,Jaipur,Flight,Business,2630
+Lucknow,Ahmedabad,Flight,Economy,3148
+Delhi,Jaipur,Bus,Non AC,3547
+Jaipur,Bangalore,Train,Sleeper,2408
+Lucknow,Ahmedabad,Flight,Business,8363
+Mumbai,Lucknow,Train,AC 2 Tier,8715
+Lucknow,Ahmedabad,Bus,Sleeper,9292
+Chennai,Jaipur,Train,AC 2 Tier,6253
+Pune,Lucknow,Flight,Business,4352
+Lucknow,Kolkata,Flight,Business,8640
+Hyderabad,Delhi,Train,First Class,7079
+Ahmedabad,Jaipur,Bus,Sleeper,3445
+Bangalore,Delhi,Flight,Economy,1757
+Bangalore,Mumbai,Flight,Business,4699
+Lucknow,Bangalore,Flight,Economy,4355
+Lucknow,Bangalore,Bus,AC,9487
+Delhi,Ahmedabad,Flight,Economy,7042
+Chennai,Bangalore,Bus,Non AC,5192
+Ahmedabad,Lucknow,Flight,Business,2668
+Chennai,Hyderabad,Train,AC 3 Tier,3383
+Jaipur,Kolkata,Bus,AC,5254
+Chennai,Bangalore,Train,AC 3 Tier,6480
+Lucknow,Jaipur,Train,Sleeper,8690
+Delhi,Hyderabad,Bus,Sleeper,7861
+Kolkata,Bangalore,Train,AC 3 Tier,2462
+Mumbai,Kolkata,Train,AC 3 Tier,7769
+Kolkata,Bangalore,Train,First Class,1612
+Bangalore,Mumbai,Flight,Business,2520
+Mumbai,Hyderabad,Flight,Economy,5018
+Lucknow,Delhi,Bus,AC,9117
+Chennai,Kolkata,Flight,Economy,4488
+Mumbai,Lucknow,Flight,Business,9211
+Hyderabad,Jaipur,Train,AC 3 Tier,1116
+Hyderabad,Delhi,Flight,Economy,6779
+Ahmedabad,Mumbai,Bus,AC,8916
+Bangalore,Hyderabad,Flight,Economy,2295
+Hyderabad,Lucknow,Flight,Economy,5703
+Pune,Kolkata,Flight,Economy,6354
+Kolkata,Hyderabad,Bus,Non AC,7996
+Hyderabad,Pune,Bus,AC,514
+Pune,Kolkata,Train,First Class,9456
+Ahmedabad,Delhi,Bus,AC,6325
+Chennai,Pune,Flight,Economy,9775
+Lucknow,Kolkata,Bus,Sleeper,9814
+Ahmedabad,Delhi,Flight,Economy,4760
+Ahmedabad,Chennai,Bus,AC,740
+Delhi,Mumbai,Bus,AC,1364
+Pune,Mumbai,Train,Sleeper,7335
+Pune,Jaipur,Train,Sleeper,8669
+Ahmedabad,Pune,Flight,Business,1215
+Mumbai,Lucknow,Train,AC 2 Tier,8060
+Pune,Hyderabad,Bus,AC,7392
+Hyderabad,Pune,Flight,Business,9180
+Hyderabad,Mumbai,Bus,AC,9327
+Lucknow,Hyderabad,Train,AC 2 Tier,5860
+Mumbai,Lucknow,Train,AC 3 Tier,1665
+Mumbai,Ahmedabad,Flight,Business,2497
+Mumbai,Bangalore,Train,AC 3 Tier,6741
+Lucknow,Hyderabad,Flight,Business,8302
+Ahmedabad,Pune,Bus,Non AC,5108
+Mumbai,Jaipur,Flight,Business,2831
+Jaipur,Kolkata,Flight,Economy,8416
+Jaipur,Chennai,Bus,AC,1463
+Jaipur,Lucknow,Bus,Sleeper,7569
+Ahmedabad,Hyderabad,Flight,Economy,912
+Jaipur,Bangalore,Train,First Class,9222
+Chennai,Kolkata,Bus,Sleeper,2558
+Jaipur,Delhi,Bus,Sleeper,6839
+Kolkata,Chennai,Train,AC 3 Tier,5007
+Pune,Kolkata,Bus,Sleeper,2305
+Chennai,Hyderabad,Bus,Sleeper,1072
+Delhi,Mumbai,Bus,AC,8010
+Lucknow,Delhi,Bus,Non AC,1943
+Lucknow,Mumbai,Flight,Economy,6215
+Jaipur,Chennai,Train,AC 3 Tier,3336
+Jaipur,Delhi,Flight,Economy,5639
+Chennai,Bangalore,Flight,Economy,8242
+Chennai,Delhi,Bus,Non AC,7180
+Pune,Lucknow,Bus,AC,3691
+Pune,Lucknow,Train,First Class,1836
+Lucknow,Jaipur,Train,First Class,4612
+Ahmedabad,Delhi,Bus,Sleeper,6563
+Chennai,Pune,Flight,Business,2229
+Hyderabad,Bangalore,Train,AC 2 Tier,881
+Chennai,Bangalore,Train,Sleeper,7432
+Bangalore,Ahmedabad,Bus,Non AC,774
+Kolkata,Ahmedabad,Train,AC 3 Tier,1933
+Jaipur,Kolkata,Flight,Economy,2665
+Bangalore,Jaipur,Bus,AC,4167
+Hyderabad,Jaipur,Flight,Economy,4083
+Bangalore,Kolkata,Flight,Economy,6975
+Jaipur,Bangalore,Bus,Sleeper,9350
+Chennai,Hyderabad,Flight,Economy,1198
+Jaipur,Mumbai,Train,AC 3 Tier,3035
+Hyderabad,Bangalore,Train,AC 2 Tier,7586
+Hyderabad,Mumbai,Bus,Non AC,3805
+Delhi,Mumbai,Flight,Business,8952
+Jaipur,Bangalore,Bus,Non AC,5733
+Ahmedabad,Jaipur,Train,Sleeper,6669
+Lucknow,Kolkata,Flight,Business,6078
+Chennai,Mumbai,Bus,AC,7623
+Jaipur,Bangalore,Train,Sleeper,5739
+Delhi,Chennai,Flight,Economy,2679
+Delhi,Bangalore,Bus,AC,3166
+Mumbai,Hyderabad,Bus,AC,1468
+Mumbai,Bangalore,Bus,Sleeper,9041
+Hyderabad,Mumbai,Train,AC 3 Tier,4775
+Bangalore,Lucknow,Flight,Economy,4184
+Hyderabad,Chennai,Flight,Business,1240
+Lucknow,Bangalore,Train,Sleeper,6058
+Lucknow,Ahmedabad,Bus,AC,5789
+Chennai,Pune,Bus,Non AC,4726
+Delhi,Mumbai,Bus,AC,6083
+Lucknow,Bangalore,Flight,Business,2692
+Bangalore,Ahmedabad,Bus,AC,2624
+Mumbai,Bangalore,Bus,AC,9525
+Hyderabad,Ahmedabad,Train,Sleeper,8158
+Chennai,Kolkata,Flight,Economy,8078
+Ahmedabad,Hyderabad,Bus,Sleeper,5217
+Lucknow,Kolkata,Train,First Class,9689
+Bangalore,Ahmedabad,Bus,Non AC,7348
+Pune,Bangalore,Bus,Non AC,3082
+Mumbai,Chennai,Bus,AC,7106
+Ahmedabad,Jaipur,Bus,Sleeper,2768
+Chennai,Delhi,Bus,Sleeper,7231
+Ahmedabad,Hyderabad,Flight,Economy,9068
+Mumbai,Bangalore,Bus,Non AC,5258
+Ahmedabad,Hyderabad,Flight,Business,3880
+Lucknow,Jaipur,Flight,Economy,8982
+Kolkata,Ahmedabad,Train,First Class,1871
+Jaipur,Delhi,Train,AC 3 Tier,3103
+Kolkata,Pune,Bus,Non AC,7007
+Chennai,Hyderabad,Bus,Sleeper,6572
+Delhi,Bangalore,Flight,Business,7427
+Kolkata,Ahmedabad,Train,AC 2 Tier,8664
+Lucknow,Kolkata,Flight,Business,3376
+Lucknow,Kolkata,Bus,Non AC,9959
+Jaipur,Mumbai,Flight,Economy,8419
+Mumbai,Chennai,Flight,Business,2336
+Pune,Mumbai,Train,First Class,9031
+Ahmedabad,Mumbai,Flight,Business,2051
+Delhi,Bangalore,Train,AC 3 Tier,8903
+Hyderabad,Ahmedabad,Flight,Business,7890
+Chennai,Mumbai,Train,AC 3 Tier,5441
+Lucknow,Chennai,Train,Sleeper,7808
+Ahmedabad,Jaipur,Flight,Economy,9410
+Ahmedabad,Delhi,Bus,AC,2648
+Lucknow,Chennai,Flight,Business,8418
+Mumbai,Delhi,Flight,Economy,2677
+Pune,Ahmedabad,Bus,AC,9443
+Pune,Delhi,Flight,Business,7864
+Pune,Chennai,Train,First Class,3060
+Delhi,Ahmedabad,Flight,Economy,7282
+Lucknow,Bangalore,Bus,Non AC,9650
+Kolkata,Lucknow,Bus,Sleeper,6143
+Chennai,Pune,Bus,AC,2996
+Bangalore,Hyderabad,Bus,Sleeper,7821
+Jaipur,Pune,Bus,AC,1096
+Lucknow,Hyderabad,Train,AC 3 Tier,6735
+Hyderabad,Chennai,Train,AC 3 Tier,7597
+Bangalore,Ahmedabad,Flight,Economy,9240
+Kolkata,Ahmedabad,Bus,Non AC,2727
+Lucknow,Pune,Train,AC 2 Tier,3343
+Mumbai,Lucknow,Bus,AC,2783
+Mumbai,Delhi,Train,AC 3 Tier,6583
+Ahmedabad,Lucknow,Bus,Non AC,1331
+Pune,Lucknow,Flight,Economy,4800
+Chennai,Delhi,Train,First Class,3222
+Chennai,Lucknow,Flight,Economy,3967
+Jaipur,Lucknow,Train,AC 3 Tier,6123
+Lucknow,Chennai,Bus,Non AC,2959
+Chennai,Pune,Flight,Business,8454
+Ahmedabad,Bangalore,Flight,Economy,3737
+Chennai,Kolkata,Flight,Economy,6349
+Jaipur,Chennai,Bus,Sleeper,1205
+Lucknow,Hyderabad,Train,Sleeper,7894
+Chennai,Pune,Flight,Business,7711
+Delhi,Kolkata,Train,First Class,3205
+Delhi,Bangalore,Train,Sleeper,6187
+Pune,Bangalore,Train,AC 3 Tier,6325
+Kolkata,Mumbai,Bus,Non AC,8680
+Chennai,Jaipur,Flight,Economy,3899
+Delhi,Ahmedabad,Bus,AC,2146
+Mumbai,Hyderabad,Bus,Non AC,8211
+Pune,Lucknow,Train,AC 3 Tier,802
+Bangalore,Jaipur,Bus,Sleeper,9645
+Kolkata,Hyderabad,Bus,Sleeper,617
+Mumbai,Lucknow,Flight,Economy,5394
+Kolkata,Chennai,Flight,Economy,9419
+Jaipur,Pune,Flight,Economy,587
+Delhi,Bangalore,Bus,Sleeper,5878
+Ahmedabad,Lucknow,Flight,Business,8172
+Hyderabad,Delhi,Train,AC 3 Tier,3680
+Ahmedabad,Hyderabad,Flight,Business,2533
+Hyderabad,Chennai,Train,AC 2 Tier,5208
+Chennai,Hyderabad,Flight,Business,822
+Ahmedabad,Mumbai,Bus,AC,4200
+Ahmedabad,Hyderabad,Flight,Business,8770
+Hyderabad,Ahmedabad,Bus,AC,8652
+Ahmedabad,Bangalore,Bus,AC,5889
+Bangalore,Pune,Flight,Business,9444
+Pune,Mumbai,Flight,Business,5554
+Jaipur,Pune,Bus,AC,5413
+Jaipur,Hyderabad,Train,AC 3 Tier,9802
+Lucknow,Bangalore,Train,Sleeper,2073
+Hyderabad,Ahmedabad,Bus,Sleeper,4716
+Mumbai,Jaipur,Bus,Non AC,4361
+Mumbai,Chennai,Bus,Non AC,2644
+Jaipur,Pune,Bus,Sleeper,4798
+Hyderabad,Lucknow,Flight,Economy,5580
+Bangalore,Hyderabad,Bus,Non AC,7729
+Hyderabad,Jaipur,Bus,Non AC,9104
+Hyderabad,Ahmedabad,Train,AC 3 Tier,2092
+Kolkata,Ahmedabad,Bus,Sleeper,9700
+Jaipur,Bangalore,Flight,Business,1991
+Bangalore,Ahmedabad,Flight,Business,9527
+Ahmedabad,Mumbai,Flight,Business,9144
+Pune,Chennai,Flight,Economy,9044
+Chennai,Lucknow,Bus,Sleeper,586
+Mumbai,Lucknow,Flight,Economy,1390
+Jaipur,Pune,Flight,Economy,7229
+Delhi,Mumbai,Bus,Non AC,5269
+Pune,Jaipur,Bus,Non AC,1293
+Hyderabad,Bangalore,Train,Sleeper,1110
+Jaipur,Hyderabad,Train,AC 3 Tier,4000
+Mumbai,Jaipur,Train,Sleeper,3733
+Jaipur,Mumbai,Flight,Economy,3744
+Jaipur,Kolkata,Flight,Business,4365
+Jaipur,Delhi,Train,First Class,5217
+Pune,Kolkata,Bus,Sleeper,5066
+Bangalore,Delhi,Flight,Business,1486
+Chennai,Delhi,Flight,Business,6383
+Bangalore,Mumbai,Bus,Sleeper,2760
+Ahmedabad,Bangalore,Train,AC 2 Tier,3850
+Kolkata,Hyderabad,Bus,Non AC,3809
+Kolkata,Jaipur,Flight,Business,9843
+Bangalore,Chennai,Bus,AC,1277
+Kolkata,Bangalore,Train,Sleeper,8317
+Chennai,Jaipur,Train,AC 2 Tier,5959
+Kolkata,Ahmedabad,Train,AC 2 Tier,8522
+Bangalore,Pune,Bus,Non AC,4244
+Pune,Chennai,Train,Sleeper,9416
+Lucknow,Kolkata,Train,First Class,3183
+Mumbai,Kolkata,Bus,AC,8491
+Hyderabad,Mumbai,Train,First Class,8949
+Jaipur,Bangalore,Train,AC 2 Tier,3010
+Jaipur,Pune,Train,AC 3 Tier,9836
+Ahmedabad,Hyderabad,Train,AC 2 Tier,5435
+Jaipur,Ahmedabad,Bus,Sleeper,3146
+Mumbai,Pune,Flight,Economy,7834
+Mumbai,Chennai,Bus,AC,5524
+Pune,Jaipur,Flight,Business,6569
+Chennai,Hyderabad,Train,AC 3 Tier,979
+Mumbai,Delhi,Flight,Business,5580
+Chennai,Bangalore,Train,AC 2 Tier,7344
+Chennai,Mumbai,Flight,Economy,3204
+Chennai,Lucknow,Train,Sleeper,5897
+Chennai,Kolkata,Flight,Business,5314
+Kolkata,Jaipur,Train,First Class,7818
+Pune,Kolkata,Train,Sleeper,578
+Kolkata,Hyderabad,Bus,Non AC,4883
+Kolkata,Ahmedabad,Train,AC 3 Tier,3556
+Chennai,Delhi,Bus,Sleeper,4181
+Kolkata,Ahmedabad,Train,AC 3 Tier,4383
+Ahmedabad,Jaipur,Flight,Economy,6049
+Bangalore,Ahmedabad,Flight,Business,8283
+Hyderabad,Chennai,Bus,Non AC,2936
+Jaipur,Delhi,Flight,Business,4315
+Bangalore,Chennai,Flight,Economy,3493
+Lucknow,Ahmedabad,Bus,Non AC,6374
+Mumbai,Bangalore,Train,AC 3 Tier,5359
+Mumbai,Pune,Bus,Sleeper,7428
+Mumbai,Hyderabad,Bus,Sleeper,6856
+Mumbai,Kolkata,Flight,Economy,4192
+Kolkata,Jaipur,Bus,Sleeper,1267
+Mumbai,Jaipur,Train,AC 3 Tier,7309
+Jaipur,Chennai,Bus,Non AC,6636
+Delhi,Ahmedabad,Bus,Non AC,8653
+Hyderabad,Mumbai,Bus,Non AC,6410
+Lucknow,Pune,Bus,Non AC,5014
+Kolkata,Hyderabad,Train,AC 2 Tier,1935
+Bangalore,Pune,Train,AC 3 Tier,7327
+Hyderabad,Mumbai,Train,AC 2 Tier,9383
+Ahmedabad,Lucknow,Bus,Sleeper,3531
+Bangalore,Mumbai,Train,First Class,4066
+Hyderabad,Lucknow,Flight,Business,6857
+Kolkata,Jaipur,Flight,Economy,2575
+Ahmedabad,Lucknow,Train,AC 3 Tier,3314
+Chennai,Jaipur,Train,First Class,2332
+Kolkata,Chennai,Train,AC 3 Tier,9534
+Lucknow,Delhi,Flight,Economy,6380
+Delhi,Jaipur,Bus,Non AC,8440
+Hyderabad,Pune,Train,AC 2 Tier,1598
+Jaipur,Hyderabad,Flight,Economy,8809
+Hyderabad,Kolkata,Bus,Sleeper,720
+Delhi,Jaipur,Bus,Non AC,8659
+Chennai,Bangalore,Flight,Business,887
+Pune,Ahmedabad,Flight,Economy,8010
+Mumbai,Pune,Flight,Economy,1709
+Lucknow,Kolkata,Bus,Sleeper,558
+Ahmedabad,Lucknow,Bus,AC,2565
+Lucknow,Kolkata,Flight,Economy,7195
+Chennai,Kolkata,Train,AC 2 Tier,1316
+Mumbai,Ahmedabad,Flight,Business,3683
+Ahmedabad,Lucknow,Train,First Class,862
+Jaipur,Pune,Bus,AC,4969
+Pune,Lucknow,Train,Sleeper,8113
+Ahmedabad,Lucknow,Flight,Business,9791
+Bangalore,Jaipur,Train,Sleeper,1448
+Delhi,Bangalore,Train,First Class,5841
+Chennai,Jaipur,Flight,Economy,7651
+Kolkata,Mumbai,Train,Sleeper,2159
+Pune,Kolkata,Train,First Class,7640
+Chennai,Lucknow,Flight,Business,8653
+Hyderabad,Mumbai,Train,AC 2 Tier,7707
+Mumbai,Chennai,Bus,AC,9028
+Lucknow,Delhi,Flight,Business,9756
+Jaipur,Delhi,Bus,Sleeper,1149
+Pune,Ahmedabad,Flight,Business,9547
+Mumbai,Hyderabad,Flight,Business,5923
+Mumbai,Hyderabad,Flight,Economy,7741
+Pune,Delhi,Train,First Class,7654
+Jaipur,Ahmedabad,Train,AC 2 Tier,4668
+Chennai,Hyderabad,Flight,Economy,3968
+Chennai,Kolkata,Bus,Non AC,8445
+Kolkata,Lucknow,Train,AC 2 Tier,5325
+Bangalore,Lucknow,Train,First Class,6183
+Delhi,Pune,Bus,Sleeper,795
+Delhi,Bangalore,Bus,Sleeper,5425
+Kolkata,Delhi,Bus,AC,1271
+Delhi,Chennai,Train,Sleeper,7788
+Ahmedabad,Chennai,Train,AC 2 Tier,8651
+Mumbai,Delhi,Flight,Business,1545
+Mumbai,Delhi,Flight,Business,3207
+Pune,Kolkata,Flight,Economy,6326
+Mumbai,Jaipur,Train,AC 3 Tier,8023
+Kolkata,Ahmedabad,Bus,Non AC,9205
+Jaipur,Delhi,Bus,Non AC,5906
+Pune,Chennai,Flight,Business,9356
+Lucknow,Delhi,Train,First Class,7998
+Delhi,Kolkata,Flight,Economy,2081
+Bangalore,Jaipur,Train,Sleeper,996
+Kolkata,Lucknow,Bus,AC,8283
+Hyderabad,Ahmedabad,Train,First Class,6750
+Delhi,Chennai,Flight,Economy,4793
+Lucknow,Delhi,Flight,Economy,4653
+Mumbai,Hyderabad,Bus,AC,8667
+Mumbai,Chennai,Flight,Business,6181
+Kolkata,Hyderabad,Bus,Non AC,2149
+Chennai,Lucknow,Flight,Business,4118
+Hyderabad,Lucknow,Flight,Economy,5223
+Kolkata,Jaipur,Bus,Sleeper,2092
+Delhi,Chennai,Train,Sleeper,9667
+Bangalore,Kolkata,Bus,Sleeper,7381
+Kolkata,Mumbai,Bus,AC,8366
+Kolkata,Pune,Train,AC 2 Tier,1551
+Hyderabad,Pune,Train,Sleeper,2166
+Mumbai,Ahmedabad,Train,First Class,851
+Kolkata,Pune,Train,AC 3 Tier,8416
+Jaipur,Ahmedabad,Train,AC 2 Tier,6841
+Delhi,Bangalore,Train,First Class,9352
+Jaipur,Hyderabad,Bus,Non AC,4332
+Jaipur,Lucknow,Train,AC 3 Tier,591
+Hyderabad,Jaipur,Flight,Economy,9429
+Pune,Ahmedabad,Flight,Economy,2714
+Delhi,Jaipur,Train,AC 2 Tier,9344
+Jaipur,Bangalore,Train,AC 3 Tier,9293
+Hyderabad,Jaipur,Bus,Sleeper,6811
+Lucknow,Kolkata,Flight,Economy,8587
+Pune,Ahmedabad,Flight,Economy,9476
+Chennai,Lucknow,Bus,Sleeper,986
+Delhi,Chennai,Train,AC 2 Tier,1329
+Delhi,Lucknow,Train,Sleeper,2777
+Delhi,Hyderabad,Flight,Economy,3250
+Chennai,Hyderabad,Flight,Economy,7080
+Ahmedabad,Jaipur,Bus,Non AC,2483
+Bangalore,Chennai,Bus,AC,5049
+Bangalore,Delhi,Bus,Sleeper,6012
+Jaipur,Delhi,Train,Sleeper,4390
+Hyderabad,Jaipur,Bus,AC,5268
+Jaipur,Kolkata,Bus,AC,4071
+Bangalore,Chennai,Bus,Sleeper,7420
+Chennai,Pune,Train,First Class,9780
+Kolkata,Bangalore,Train,AC 2 Tier,3274
+Delhi,Bangalore,Flight,Economy,6549
+Delhi,Hyderabad,Train,First Class,6149
+Jaipur,Hyderabad,Train,AC 3 Tier,6906
+Jaipur,Delhi,Flight,Business,4293
+Bangalore,Jaipur,Flight,Economy,602
+Lucknow,Hyderabad,Flight,Economy,9080
+Hyderabad,Ahmedabad,Flight,Business,8511
+Delhi,Hyderabad,Train,Sleeper,3477
+Kolkata,Jaipur,Bus,AC,7855
+Chennai,Lucknow,Bus,Sleeper,7430
+Ahmedabad,Pune,Flight,Economy,5319
+Mumbai,Kolkata,Flight,Economy,5984
+Jaipur,Hyderabad,Flight,Economy,7329
+Mumbai,Pune,Bus,Non AC,3374
+Bangalore,Lucknow,Train,AC 2 Tier,6964
+Pune,Mumbai,Flight,Economy,4159
+Mumbai,Lucknow,Flight,Economy,1668
+Mumbai,Chennai,Train,Sleeper,3921
+Pune,Lucknow,Flight,Business,827
+Lucknow,Bangalore,Flight,Economy,8232
+Lucknow,Hyderabad,Train,AC 2 Tier,9748
+Lucknow,Ahmedabad,Train,AC 2 Tier,5479
+Pune,Mumbai,Train,First Class,819
+Delhi,Lucknow,Flight,Business,8644
+Mumbai,Bangalore,Bus,AC,9929
+Pune,Lucknow,Bus,Sleeper,3070
+Pune,Bangalore,Train,First Class,8785
+Lucknow,Chennai,Bus,AC,7226
+Kolkata,Bangalore,Train,AC 3 Tier,8313
+Jaipur,Chennai,Flight,Business,2352
+Pune,Delhi,Bus,AC,1001
+Mumbai,Delhi,Flight,Economy,9418
+Bangalore,Jaipur,Train,First Class,3507
+Bangalore,Mumbai,Train,AC 3 Tier,3083
+Ahmedabad,Hyderabad,Train,First Class,746
+Delhi,Ahmedabad,Flight,Business,5413
+Pune,Chennai,Train,AC 2 Tier,1568
+Kolkata,Hyderabad,Flight,Business,4595
+Ahmedabad,Lucknow,Flight,Economy,7995
+Delhi,Lucknow,Train,Sleeper,4676
+Delhi,Lucknow,Train,AC 2 Tier,4487
+Pune,Jaipur,Bus,AC,1892
+Delhi,Chennai,Bus,Non AC,4249
+Bangalore,Ahmedabad,Flight,Economy,8003
+Delhi,Kolkata,Train,First Class,4735
+Lucknow,Delhi,Flight,Economy,6378
+Jaipur,Bangalore,Flight,Business,9230
+Jaipur,Chennai,Bus,AC,7708
+Mumbai,Jaipur,Bus,Sleeper,730
+Delhi,Jaipur,Train,AC 3 Tier,1371
+Lucknow,Mumbai,Bus,Sleeper,5028
+Lucknow,Kolkata,Bus,AC,2740
+Ahmedabad,Lucknow,Bus,AC,2591
+Bangalore,Hyderabad,Flight,Economy,5739
+Mumbai,Jaipur,Flight,Economy,2662
+Hyderabad,Mumbai,Bus,Non AC,8064
+Mumbai,Lucknow,Train,AC 3 Tier,3900
+Mumbai,Lucknow,Flight,Business,5988
+Jaipur,Delhi,Flight,Business,4885
+Lucknow,Mumbai,Bus,AC,1515
+Kolkata,Mumbai,Bus,Sleeper,5325
+Hyderabad,Bangalore,Train,First Class,1704
+Pune,Mumbai,Train,AC 3 Tier,6428
+Lucknow,Delhi,Bus,Sleeper,4743
+Kolkata,Hyderabad,Train,First Class,4092
+Hyderabad,Pune,Train,AC 2 Tier,4290
+Delhi,Ahmedabad,Train,AC 2 Tier,2444
+Pune,Delhi,Flight,Business,2485
+Delhi,Pune,Flight,Economy,5544
+Hyderabad,Mumbai,Bus,Sleeper,7042
+Mumbai,Bangalore,Flight,Business,7568
+Lucknow,Delhi,Flight,Business,7576
+Pune,Kolkata,Flight,Economy,4746
+Ahmedabad,Delhi,Train,AC 3 Tier,9126
+Mumbai,Lucknow,Flight,Economy,4263
+Ahmedabad,Hyderabad,Bus,Non AC,2771
+Hyderabad,Pune,Bus,Non AC,9729
+Ahmedabad,Bangalore,Flight,Business,2068
+Hyderabad,Delhi,Flight,Economy,9473
+Lucknow,Jaipur,Bus,Sleeper,4816
+Bangalore,Delhi,Bus,AC,9221
+Delhi,Mumbai,Train,Sleeper,3649
+Chennai,Bangalore,Bus,AC,8298
+Delhi,Kolkata,Train,AC 3 Tier,1997
+Delhi,Pune,Train,AC 2 Tier,6855
+Bangalore,Pune,Flight,Business,971
+Lucknow,Jaipur,Flight,Business,7806
+Kolkata,Mumbai,Bus,Non AC,4223
+Bangalore,Delhi,Flight,Economy,7218
+Bangalore,Kolkata,Train,AC 2 Tier,8372
+Bangalore,Pune,Bus,AC,6642
+Pune,Kolkata,Train,First Class,4198
+Chennai,Pune,Flight,Business,4980
+Bangalore,Lucknow,Train,Sleeper,6655
+Lucknow,Ahmedabad,Train,Sleeper,3906
+Pune,Ahmedabad,Train,Sleeper,4227
+Kolkata,Chennai,Bus,Non AC,4272
+Ahmedabad,Chennai,Flight,Economy,4544
+Mumbai,Lucknow,Flight,Economy,558
+Pune,Bangalore,Bus,Non AC,1082
+Kolkata,Mumbai,Train,Sleeper,5059
+Ahmedabad,Bangalore,Bus,Sleeper,9184
+Mumbai,Jaipur,Bus,Sleeper,4317
+Chennai,Lucknow,Train,Sleeper,7151
+Lucknow,Mumbai,Flight,Economy,5662
+Delhi,Mumbai,Bus,AC,8035
+Chennai,Mumbai,Train,AC 2 Tier,532
+Bangalore,Mumbai,Flight,Business,5086
+Lucknow,Delhi,Flight,Economy,9425
+Lucknow,Jaipur,Flight,Economy,3645
+Kolkata,Mumbai,Bus,AC,2520
+Bangalore,Jaipur,Bus,Non AC,7447
+Jaipur,Ahmedabad,Train,AC 3 Tier,9538
+Mumbai,Chennai,Flight,Economy,1323
+Ahmedabad,Jaipur,Bus,AC,2545
+Delhi,Mumbai,Bus,Sleeper,1163
+Jaipur,Pune,Bus,AC,5245
+Pune,Bangalore,Bus,AC,8891
+Hyderabad,Chennai,Train,Sleeper,5550
+Chennai,Jaipur,Bus,Non AC,9534
+Hyderabad,Kolkata,Train,First Class,9152
+Chennai,Mumbai,Bus,Non AC,4007
+Jaipur,Pune,Train,Sleeper,9072
+Hyderabad,Kolkata,Bus,Non AC,4675
+Hyderabad,Kolkata,Train,AC 2 Tier,9541
+Chennai,Hyderabad,Bus,Sleeper,7264
+Delhi,Chennai,Train,Sleeper,1431
+Chennai,Hyderabad,Flight,Economy,725
+Bangalore,Mumbai,Train,First Class,4730
+Ahmedabad,Jaipur,Bus,AC,592
+Kolkata,Ahmedabad,Flight,Economy,6148
+Lucknow,Chennai,Train,AC 3 Tier,3853
+Pune,Chennai,Train,AC 3 Tier,5486
+Kolkata,Ahmedabad,Bus,AC,4887
+Lucknow,Hyderabad,Train,Sleeper,9041
+Ahmedabad,Hyderabad,Train,Sleeper,4138
+Chennai,Pune,Train,Sleeper,3995
+Bangalore,Lucknow,Flight,Economy,7482
+Ahmedabad,Chennai,Flight,Economy,5687
+Hyderabad,Kolkata,Bus,Non AC,4952
+Chennai,Delhi,Train,First Class,8797
+Pune,Mumbai,Train,First Class,5802
+Pune,Ahmedabad,Bus,Sleeper,6034
+Chennai,Hyderabad,Train,AC 2 Tier,9237
+Mumbai,Chennai,Train,AC 3 Tier,4279
+Delhi,Chennai,Flight,Economy,3122
+Delhi,Jaipur,Flight,Economy,3406
+Bangalore,Kolkata,Flight,Business,8136
+Hyderabad,Jaipur,Train,First Class,3305
+Jaipur,Kolkata,Train,First Class,2977
+Jaipur,Delhi,Flight,Business,9395
+Mumbai,Bangalore,Flight,Business,813
+Lucknow,Ahmedabad,Bus,Sleeper,1100
+Lucknow,Mumbai,Bus,AC,8414
+Ahmedabad,Pune,Bus,Sleeper,9284
+Hyderabad,Mumbai,Flight,Economy,1683
+Chennai,Mumbai,Train,First Class,6345
+Bangalore,Chennai,Bus,Sleeper,6807
+Chennai,Ahmedabad,Flight,Business,5498
+Chennai,Bangalore,Bus,Non AC,8388
+Bangalore,Jaipur,Train,First Class,6103
+Kolkata,Jaipur,Flight,Business,1593
+Kolkata,Pune,Train,AC 2 Tier,9851
+Ahmedabad,Delhi,Bus,AC,829
+Jaipur,Bangalore,Bus,Non AC,7098
+Mumbai,Jaipur,Bus,Sleeper,2663
+Bangalore,Lucknow,Train,AC 3 Tier,9441
+Pune,Hyderabad,Flight,Business,1613
+Ahmedabad,Jaipur,Flight,Business,1150
+Mumbai,Kolkata,Bus,Sleeper,6808
+Chennai,Lucknow,Train,Sleeper,5034
+Delhi,Kolkata,Flight,Economy,6758
+Ahmedabad,Jaipur,Flight,Economy,4443
+Bangalore,Delhi,Train,AC 2 Tier,5246
+Kolkata,Chennai,Bus,Sleeper,1623
+Lucknow,Bangalore,Bus,AC,7556
+Mumbai,Chennai,Flight,Economy,1584
+Hyderabad,Pune,Flight,Business,5921
+Ahmedabad,Chennai,Bus,Sleeper,5553
+Chennai,Pune,Train,AC 3 Tier,9764
+Hyderabad,Mumbai,Bus,Non AC,9450
+Kolkata,Hyderabad,Flight,Business,4292
+Hyderabad,Lucknow,Bus,Sleeper,6895
+Ahmedabad,Chennai,Bus,Non AC,2904
+Lucknow,Chennai,Train,AC 2 Tier,9994
+Jaipur,Delhi,Flight,Business,6968
+Delhi,Chennai,Bus,Non AC,7945
+Jaipur,Pune,Bus,Non AC,1086
+Bangalore,Hyderabad,Flight,Business,7063
+Pune,Chennai,Bus,Non AC,3582
+Kolkata,Pune,Flight,Business,7679
+Pune,Lucknow,Flight,Business,2226
+Lucknow,Ahmedabad,Train,AC 3 Tier,8827
+Kolkata,Jaipur,Bus,Sleeper,6967
+Delhi,Mumbai,Flight,Economy,2764
+Jaipur,Pune,Flight,Economy,3451
+Lucknow,Mumbai,Bus,Sleeper,7832
+Bangalore,Pune,Flight,Economy,8014
+Mumbai,Jaipur,Train,AC 3 Tier,8794
+Bangalore,Chennai,Bus,Sleeper,4946
+Pune,Kolkata,Flight,Economy,1507
+Jaipur,Pune,Bus,Sleeper,8020
+Mumbai,Bangalore,Train,First Class,5514
+Kolkata,Jaipur,Train,First Class,3403
+Hyderabad,Delhi,Train,AC 3 Tier,7707
+Delhi,Pune,Train,First Class,7106
+Bangalore,Pune,Flight,Economy,2893
+Pune,Lucknow,Bus,Non AC,3898
+Chennai,Mumbai,Train,First Class,2807
+Delhi,Kolkata,Bus,AC,1522
+Bangalore,Chennai,Train,First Class,1575
+Hyderabad,Chennai,Flight,Business,9432
+Chennai,Mumbai,Train,AC 2 Tier,9780
+Kolkata,Mumbai,Flight,Business,805
+Hyderabad,Bangalore,Bus,Non AC,3084
+Lucknow,Pune,Flight,Business,2745
+Lucknow,Mumbai,Train,AC 3 Tier,6656
+Delhi,Bangalore,Bus,Sleeper,5357
+Ahmedabad,Mumbai,Train,AC 3 Tier,2786
+Kolkata,Mumbai,Bus,Non AC,9886
+Lucknow,Jaipur,Train,AC 2 Tier,2150
+Lucknow,Kolkata,Bus,AC,6944
+Lucknow,Hyderabad,Bus,AC,4459
+Jaipur,Mumbai,Train,AC 3 Tier,9350
+Hyderabad,Ahmedabad,Bus,AC,2053
+Chennai,Bangalore,Train,AC 2 Tier,7410
+Mumbai,Pune,Bus,Sleeper,824
+Ahmedabad,Hyderabad,Train,AC 3 Tier,9703
+Jaipur,Delhi,Flight,Economy,9972
+Kolkata,Delhi,Flight,Business,4089
+Lucknow,Chennai,Bus,Sleeper,9478
+Ahmedabad,Kolkata,Train,First Class,8427
+Ahmedabad,Kolkata,Train,AC 3 Tier,1666
+Jaipur,Mumbai,Bus,Sleeper,8824
+Delhi,Hyderabad,Train,Sleeper,4245
+Chennai,Pune,Bus,AC,2731
+Lucknow,Pune,Flight,Economy,4009
+Ahmedabad,Kolkata,Bus,AC,5215
+Pune,Hyderabad,Bus,Non AC,5514
+Mumbai,Chennai,Bus,AC,4321
+Pune,Lucknow,Bus,AC,9423
+Ahmedabad,Mumbai,Flight,Business,1415
+Ahmedabad,Kolkata,Flight,Economy,1108
+Delhi,Pune,Bus,Sleeper,4724
+Chennai,Hyderabad,Train,AC 3 Tier,7076
+Delhi,Mumbai,Flight,Business,2448
+Delhi,Ahmedabad,Bus,Sleeper,5781
+Bangalore,Kolkata,Bus,Sleeper,2424
+Delhi,Mumbai,Train,Sleeper,6352
+Ahmedabad,Mumbai,Train,First Class,2854
+Hyderabad,Mumbai,Flight,Business,4796
+Ahmedabad,Jaipur,Train,AC 3 Tier,1256
+Bangalore,Mumbai,Bus,Non AC,8018
+Mumbai,Pune,Train,AC 3 Tier,5691
+Jaipur,Pune,Flight,Economy,4674
+Hyderabad,Pune,Bus,Sleeper,2205
+Ahmedabad,Pune,Flight,Economy,749
+Kolkata,Delhi,Train,First Class,2366
+Chennai,Kolkata,Bus,Sleeper,4242
+Ahmedabad,Mumbai,Flight,Economy,809
+Chennai,Hyderabad,Flight,Business,5788
+Chennai,Ahmedabad,Flight,Business,8557
+Delhi,Chennai,Flight,Business,6174
+Chennai,Jaipur,Flight,Business,5249
+Lucknow,Kolkata,Flight,Business,6141
+Mumbai,Hyderabad,Flight,Economy,7808
+Hyderabad,Jaipur,Train,Sleeper,600
+Ahmedabad,Delhi,Flight,Business,6556
+Kolkata,Pune,Bus,Non AC,2881
+Ahmedabad,Pune,Flight,Economy,8116
+Mumbai,Bangalore,Train,First Class,1065
+Chennai,Pune,Bus,Sleeper,610
+Bangalore,Lucknow,Train,AC 2 Tier,9272
+Chennai,Ahmedabad,Train,AC 3 Tier,1924
+Bangalore,Chennai,Train,Sleeper,9759
+Hyderabad,Pune,Bus,Non AC,4930
+Jaipur,Pune,Flight,Economy,878
+Delhi,Jaipur,Bus,Non AC,1941
+Chennai,Jaipur,Flight,Economy,6680
+Jaipur,Mumbai,Flight,Economy,7103
+Chennai,Kolkata,Train,AC 2 Tier,6545
+Chennai,Jaipur,Flight,Business,1968
+Lucknow,Jaipur,Bus,Sleeper,5460
+Mumbai,Ahmedabad,Bus,AC,9484
+Ahmedabad,Chennai,Flight,Business,9292
+Kolkata,Bangalore,Flight,Business,6745
+Hyderabad,Jaipur,Bus,AC,1931
+Jaipur,Pune,Flight,Economy,2266
+Jaipur,Chennai,Flight,Economy,3646
+Jaipur,Chennai,Flight,Economy,5405
+Jaipur,Pune,Train,First Class,1599
+Hyderabad,Pune,Bus,Sleeper,2478
+Hyderabad,Jaipur,Flight,Business,1328
+Chennai,Ahmedabad,Bus,Non AC,7437
+Bangalore,Delhi,Train,AC 2 Tier,9167
+Jaipur,Pune,Train,Sleeper,5190
+Kolkata,Jaipur,Train,AC 3 Tier,5715
+Bangalore,Kolkata,Flight,Economy,968
+Kolkata,Delhi,Bus,Sleeper,2841
+Pune,Mumbai,Flight,Economy,5398
+Pune,Chennai,Train,Sleeper,3459
+Bangalore,Mumbai,Flight,Economy,1602
+Mumbai,Hyderabad,Bus,AC,1361
+Pune,Hyderabad,Bus,Sleeper,6140
+Kolkata,Hyderabad,Bus,AC,1851
+Chennai,Lucknow,Flight,Economy,1895
+Jaipur,Lucknow,Flight,Business,5401
+Kolkata,Mumbai,Bus,Non AC,4840
+Jaipur,Mumbai,Flight,Business,2824
+Kolkata,Lucknow,Bus,Sleeper,7065
+Kolkata,Ahmedabad,Bus,Non AC,9342
+Delhi,Kolkata,Train,AC 3 Tier,1582
+Hyderabad,Mumbai,Train,Sleeper,2018
+Lucknow,Jaipur,Bus,AC,7855
+Jaipur,Lucknow,Bus,AC,2583
+Jaipur,Hyderabad,Bus,Non AC,1077
+Hyderabad,Delhi,Train,AC 3 Tier,1913
+Pune,Hyderabad,Train,AC 2 Tier,1476
+Pune,Chennai,Flight,Economy,1495
+Delhi,Ahmedabad,Bus,AC,6222
+Lucknow,Mumbai,Train,Sleeper,8097
+Bangalore,Pune,Flight,Business,1512
+Chennai,Ahmedabad,Flight,Business,7004
+Chennai,Ahmedabad,Flight,Economy,7649
+Lucknow,Pune,Train,AC 3 Tier,3986
+Lucknow,Pune,Flight,Economy,4235
+Bangalore,Lucknow,Bus,Sleeper,1872
+Pune,Lucknow,Train,AC 3 Tier,7416
+Chennai,Jaipur,Flight,Business,1877
+Chennai,Delhi,Flight,Economy,8156
+Ahmedabad,Kolkata,Flight,Economy,6450
+Mumbai,Kolkata,Bus,Non AC,8019
+Jaipur,Pune,Flight,Business,8621
+Lucknow,Mumbai,Train,AC 3 Tier,9423
+Lucknow,Jaipur,Train,First Class,3434
+Hyderabad,Kolkata,Bus,AC,9364
+Lucknow,Chennai,Train,First Class,832
+Ahmedabad,Bangalore,Train,AC 3 Tier,7026
+Kolkata,Ahmedabad,Bus,Sleeper,8166
+Bangalore,Pune,Train,Sleeper,1159
+Delhi,Chennai,Bus,Non AC,6331
+Kolkata,Hyderabad,Flight,Economy,4177
+Mumbai,Bangalore,Train,Sleeper,544
+Chennai,Bangalore,Flight,Business,1092
+Kolkata,Mumbai,Flight,Economy,6373
+Chennai,Jaipur,Flight,Business,7135
+Bangalore,Lucknow,Bus,Sleeper,2687
+Mumbai,Delhi,Bus,AC,6258
+Delhi,Lucknow,Flight,Economy,5719
+Bangalore,Ahmedabad,Flight,Business,9684
+Bangalore,Ahmedabad,Train,Sleeper,9960
+Pune,Delhi,Bus,Sleeper,2861
+Mumbai,Lucknow,Flight,Business,8103
+Lucknow,Delhi,Flight,Business,9329
+Ahmedabad,Lucknow,Train,AC 3 Tier,6888
+Chennai,Delhi,Bus,Non AC,7138
+Hyderabad,Kolkata,Flight,Business,1435
+Delhi,Mumbai,Bus,Non AC,7756
+Mumbai,Chennai,Train,AC 2 Tier,8014
+Ahmedabad,Kolkata,Bus,AC,565
+Lucknow,Chennai,Flight,Economy,6144
+Kolkata,Lucknow,Flight,Economy,7739
+Ahmedabad,Hyderabad,Train,AC 3 Tier,7367
+Ahmedabad,Bangalore,Flight,Economy,1342
+Mumbai,Hyderabad,Flight,Economy,1304
+Hyderabad,Mumbai,Train,AC 3 Tier,1033
+Pune,Ahmedabad,Train,Sleeper,4869
+Jaipur,Kolkata,Train,Sleeper,976
+Ahmedabad,Jaipur,Flight,Business,1318
+Bangalore,Kolkata,Bus,Non AC,6683
+Ahmedabad,Chennai,Flight,Business,3300
+Delhi,Bangalore,Train,First Class,5789
+Hyderabad,Mumbai,Flight,Business,1148
+Chennai,Lucknow,Bus,Non AC,3215
+Hyderabad,Chennai,Bus,AC,9057
+Mumbai,Kolkata,Bus,AC,5777
+Bangalore,Kolkata,Flight,Economy,7377
+Jaipur,Bangalore,Flight,Economy,7681
+Bangalore,Pune,Flight,Business,8144
+Chennai,Pune,Flight,Economy,1669
+Delhi,Lucknow,Bus,AC,8048
+Pune,Mumbai,Flight,Economy,2442
+Kolkata,Lucknow,Train,Sleeper,4930
+Pune,Chennai,Train,Sleeper,7551
+Jaipur,Ahmedabad,Flight,Business,1167
+Bangalore,Mumbai,Train,First Class,979
+Delhi,Mumbai,Flight,Economy,517
+Mumbai,Delhi,Train,First Class,1640
+Delhi,Kolkata,Flight,Business,7625
+Pune,Jaipur,Flight,Economy,2683
+Mumbai,Jaipur,Train,Sleeper,3784
+Chennai,Pune,Bus,Sleeper,3501
+Jaipur,Pune,Bus,Non AC,1123
+Pune,Chennai,Flight,Economy,957
+Ahmedabad,Pune,Bus,Sleeper,8571
+Chennai,Mumbai,Train,AC 3 Tier,8625
+Hyderabad,Mumbai,Bus,AC,3090
+Kolkata,Jaipur,Bus,Non AC,8338
+Mumbai,Lucknow,Bus,Non AC,9282
+Ahmedabad,Kolkata,Bus,AC,5980
+Chennai,Bangalore,Train,AC 3 Tier,518
+Bangalore,Ahmedabad,Train,AC 2 Tier,5650
+Chennai,Mumbai,Train,AC 2 Tier,9620
+Chennai,Hyderabad,Flight,Economy,8347
+Ahmedabad,Delhi,Flight,Economy,6551
+Hyderabad,Ahmedabad,Flight,Economy,5494
+Mumbai,Ahmedabad,Bus,AC,2360
+Delhi,Lucknow,Flight,Economy,7626
+Lucknow,Mumbai,Train,First Class,8251
+Delhi,Lucknow,Flight,Economy,7841
+Mumbai,Delhi,Flight,Business,5608
+Lucknow,Ahmedabad,Train,First Class,7660
+Jaipur,Mumbai,Train,AC 3 Tier,8309
+Kolkata,Chennai,Train,AC 3 Tier,6913
+Chennai,Jaipur,Flight,Economy,9718
+Jaipur,Ahmedabad,Bus,Non AC,1635
+Jaipur,Lucknow,Bus,AC,5474
+Kolkata,Ahmedabad,Flight,Business,8005
+Hyderabad,Ahmedabad,Train,First Class,4111
+Kolkata,Delhi,Bus,AC,1577
+Mumbai,Lucknow,Train,First Class,5832
+Jaipur,Hyderabad,Train,First Class,8802
+Delhi,Kolkata,Bus,Non AC,7151
+Pune,Bangalore,Train,Sleeper,8258
+Delhi,Mumbai,Flight,Economy,1530
+Jaipur,Delhi,Flight,Economy,3644
+Hyderabad,Bangalore,Flight,Economy,10000
+Pune,Hyderabad,Flight,Business,8195
+Mumbai,Bangalore,Flight,Business,6955
+Mumbai,Kolkata,Bus,Non AC,5059
+Lucknow,Ahmedabad,Train,First Class,8817
+Delhi,Jaipur,Train,AC 2 Tier,2315
+Mumbai,Hyderabad,Train,First Class,7470
+Pune,Chennai,Train,Sleeper,8987
+Bangalore,Lucknow,Flight,Economy,1353
+Kolkata,Chennai,Bus,AC,5353
+Jaipur,Lucknow,Bus,AC,7710
+Bangalore,Kolkata,Flight,Economy,779
+Jaipur,Delhi,Flight,Economy,7092
+Pune,Hyderabad,Bus,AC,9437
+Kolkata,Bangalore,Bus,Sleeper,4771
+Mumbai,Jaipur,Bus,Sleeper,1656
+Jaipur,Lucknow,Flight,Economy,7759
+Hyderabad,Lucknow,Flight,Business,6942
+Kolkata,Jaipur,Bus,AC,6401
+Kolkata,Jaipur,Train,AC 2 Tier,8758
+Mumbai,Ahmedabad,Bus,Sleeper,6815
+Lucknow,Kolkata,Flight,Business,799
+Hyderabad,Mumbai,Bus,Non AC,3496
+Kolkata,Jaipur,Bus,Non AC,3796
+Jaipur,Lucknow,Train,First Class,7947
+Mumbai,Hyderabad,Flight,Business,7693
+Jaipur,Mumbai,Flight,Business,8348
+Ahmedabad,Bangalore,Flight,Business,7886
+Lucknow,Kolkata,Flight,Business,6063
+Kolkata,Bangalore,Flight,Business,4134
+Pune,Kolkata,Flight,Business,1391
+Hyderabad,Bangalore,Bus,AC,3178
+Hyderabad,Lucknow,Flight,Economy,3966
+Kolkata,Delhi,Bus,Sleeper,6334
+Hyderabad,Mumbai,Train,Sleeper,8486
+Ahmedabad,Pune,Bus,Sleeper,6307
+Pune,Delhi,Bus,Non AC,4098
+Lucknow,Delhi,Flight,Economy,9497
+Delhi,Pune,Train,Sleeper,2795
+Chennai,Mumbai,Flight,Business,7931
+Ahmedabad,Delhi,Train,AC 2 Tier,8968
+Hyderabad,Chennai,Bus,Sleeper,8211
+Mumbai,Lucknow,Bus,AC,1622
+Kolkata,Jaipur,Train,First Class,4487
+Jaipur,Hyderabad,Bus,Non AC,5693
+Jaipur,Ahmedabad,Train,AC 3 Tier,2813
+Pune,Delhi,Train,AC 2 Tier,5494
+Jaipur,Chennai,Flight,Business,5852
+Bangalore,Delhi,Bus,Non AC,3200
+Lucknow,Kolkata,Train,First Class,8728
+Jaipur,Bangalore,Flight,Economy,9469
+Pune,Kolkata,Bus,Non AC,1397
+Delhi,Ahmedabad,Train,Sleeper,1409
+Mumbai,Lucknow,Bus,AC,6830
+Kolkata,Bangalore,Bus,Non AC,2079
+Kolkata,Lucknow,Flight,Business,5995
+Lucknow,Delhi,Flight,Economy,7907
+Hyderabad,Pune,Train,Sleeper,5056
+Hyderabad,Delhi,Flight,Economy,3818
+Mumbai,Delhi,Train,First Class,5511
+Kolkata,Bangalore,Flight,Economy,2099
+Chennai,Bangalore,Train,AC 2 Tier,9007
+Pune,Jaipur,Flight,Business,1345
+Chennai,Ahmedabad,Train,Sleeper,5718
+Chennai,Bangalore,Bus,Sleeper,4740
+Delhi,Kolkata,Bus,Sleeper,2807
+Ahmedabad,Kolkata,Flight,Business,8322
+Bangalore,Kolkata,Train,AC 3 Tier,8424
+Kolkata,Lucknow,Flight,Economy,757
+Bangalore,Pune,Flight,Business,2027
+Lucknow,Jaipur,Bus,Non AC,2645
+Ahmedabad,Kolkata,Flight,Economy,7582
+Chennai,Hyderabad,Flight,Business,4400
+Hyderabad,Chennai,Bus,Sleeper,2417
+Kolkata,Jaipur,Bus,AC,7838
+Ahmedabad,Delhi,Bus,Non AC,8896
+Kolkata,Hyderabad,Bus,Sleeper,7218
+Ahmedabad,Pune,Train,AC 2 Tier,5643
+Pune,Kolkata,Bus,AC,8255
+Lucknow,Mumbai,Flight,Economy,6656
+Hyderabad,Ahmedabad,Train,Sleeper,9741
+Chennai,Hyderabad,Bus,Sleeper,4531
+Kolkata,Lucknow,Flight,Economy,8477
+Pune,Chennai,Flight,Economy,1472
+Delhi,Jaipur,Flight,Business,4852
+Hyderabad,Pune,Flight,Economy,9658
+Ahmedabad,Mumbai,Train,First Class,1776
+Bangalore,Kolkata,Bus,AC,5240
+Jaipur,Pune,Train,Sleeper,9764
+Delhi,Hyderabad,Bus,Sleeper,3849
+Chennai,Pune,Train,Sleeper,8667
+Lucknow,Hyderabad,Bus,Non AC,8437
+Pune,Mumbai,Flight,Business,1947
+Ahmedabad,Pune,Flight,Economy,7043
+Pune,Chennai,Bus,Non AC,3596
+Kolkata,Pune,Train,AC 2 Tier,9120
+Pune,Kolkata,Bus,Sleeper,8883
+Mumbai,Lucknow,Flight,Business,3834
+Delhi,Chennai,Bus,AC,7515
+Pune,Bangalore,Flight,Business,2789
+Mumbai,Chennai,Flight,Economy,4188
+Kolkata,Jaipur,Flight,Economy,7493
+Bangalore,Mumbai,Flight,Economy,9854
+Chennai,Mumbai,Flight,Business,9061
+Kolkata,Jaipur,Bus,Non AC,4448
+Jaipur,Kolkata,Train,Sleeper,4865
+Pune,Jaipur,Bus,AC,7660
+Mumbai,Chennai,Bus,AC,3194
+Jaipur,Ahmedabad,Flight,Business,4545
+Hyderabad,Kolkata,Train,AC 2 Tier,2134
+Ahmedabad,Pune,Train,AC 3 Tier,2821
+Mumbai,Jaipur,Train,Sleeper,9350
+Bangalore,Hyderabad,Flight,Business,4793
+Bangalore,Jaipur,Flight,Economy,6591
+Mumbai,Jaipur,Flight,Business,2431
+Lucknow,Jaipur,Flight,Business,7279
+Pune,Mumbai,Bus,Non AC,8356
+Delhi,Chennai,Train,First Class,2629
+Lucknow,Ahmedabad,Bus,AC,777
+Ahmedabad,Mumbai,Train,First Class,4856
+Bangalore,Jaipur,Flight,Business,1341
+Pune,Lucknow,Bus,Sleeper,1595
